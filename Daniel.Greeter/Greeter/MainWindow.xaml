@@ -7,6 +7,10 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <TextBox x:Name="txt_FirstName" HorizontalAlignment="Left" Height="28" Margin="49,95,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="138"/>
+        <Label x:Name="lbl_FirstName" Content="FirstName" HorizontalAlignment="Left" Height="26" Margin="49,69,0,0" VerticalAlignment="Top" Width="138"/>
+        <TextBox x:Name="txt_FirstName_Copy" HorizontalAlignment="Left" Height="28" Margin="49,178,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="138"/>
+        <Label x:Name="lbl_LastName" Content="LastName" HorizontalAlignment="Left" Height="26" Margin="49,152,0,0" VerticalAlignment="Top" Width="138"/>
+
     </Grid>
 </Window>

@@ -1,0 +1,15 @@
+C:\Users\TOSHIBA\Desktop\major ICT\Project\Daniel.Greeter\Greeter\bin\Debug\Greeter.exe.config
+C:\Users\TOSHIBA\Desktop\major ICT\Project\Daniel.Greeter\Greeter\bin\Debug\Greeter.exe
+C:\Users\TOSHIBA\Desktop\major ICT\Project\Daniel.Greeter\Greeter\bin\Debug\Greeter.pdb
+C:\Users\TOSHIBA\Desktop\major ICT\Project\Daniel.Greeter\Greeter\obj\Debug\Greeter.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\major ICT\Project\Daniel.Greeter\Greeter\obj\Debug\MainWindow.g.cs
+C:\Users\TOSHIBA\Desktop\major ICT\Project\Daniel.Greeter\Greeter\obj\Debug\App.g.cs
+C:\Users\TOSHIBA\Desktop\major ICT\Project\Daniel.Greeter\Greeter\obj\Debug\Greeter_MarkupCompile.cache
+C:\Users\TOSHIBA\Desktop\major ICT\Project\Daniel.Greeter\Greeter\obj\Debug\Greeter_MarkupCompile.lref
+C:\Users\TOSHIBA\Desktop\major ICT\Project\Daniel.Greeter\Greeter\obj\Debug\MainWindow.baml
+C:\Users\TOSHIBA\Desktop\major ICT\Project\Daniel.Greeter\Greeter\obj\Debug\Greeter.g.resources
+C:\Users\TOSHIBA\Desktop\major ICT\Project\Daniel.Greeter\Greeter\obj\Debug\Greeter.Properties.Resources.resources
+C:\Users\TOSHIBA\Desktop\major ICT\Project\Daniel.Greeter\Greeter\obj\Debug\Greeter.csproj.GenerateResource.cache
+C:\Users\TOSHIBA\Desktop\major ICT\Project\Daniel.Greeter\Greeter\obj\Debug\Greeter.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\major ICT\Project\Daniel.Greeter\Greeter\obj\Debug\Greeter.exe
+C:\Users\TOSHIBA\Desktop\major ICT\Project\Daniel.Greeter\Greeter\obj\Debug\Greeter.pdb
