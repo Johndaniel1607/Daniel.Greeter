@@ -22,19 +22,7 @@ namespace Greeter
     public partial class MainWindow : Window
     {
         public MainWindow()
-        {
-            InitializeComponent();
-        }
-
-        private void btn_Click_me_Click(object sender, RoutedEventArgs e)
-        {
-            string fullname = txt_FirstName.Text + " " + txt_LastName.Text;
-
-            MessageBox.Show("HELLO " + fullname + ", Good Morning!Your favorite color is " + cboColor.SelectedItem);
-        }
-
-        private void cboColor_SelectionChanged(object sender, SelectionChangedEventArgs e)
-        {
+        { 
             InitializeComponent();
             List<string> colors = new List<string>()
             {
@@ -42,10 +30,16 @@ namespace Greeter
                 "Green",
                 "Red",
                 "Black",
-                "Blue",
+                "Blue"
             };
 
-            cboColor.ItemsSource = colors;
+            cbocolor.ItemsSource = colors;
+        }
+        private void btn_Click_me_Click(object sender, RoutedEventArgs e)
+        {
+            string fullname = txt_FirstName.Text + " " + txt_LastName.Text;
+
+            MessageBox.Show("HELLO " + fullname + ", Good Morning! Your favorite color is " + cbocolor.SelectedItem);
         }
     }
 }

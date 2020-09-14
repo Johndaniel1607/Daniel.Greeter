@@ -16,8 +16,8 @@
         <TextBox x:Name="txt_LastName" HorizontalAlignment="Left" Height="28" Margin="2,142,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="138" Grid.Column="1"/>
         <Label x:Name="lbl_LastName" Content="LastName" HorizontalAlignment="Left" Height="26" Margin="2,116,0,0" VerticalAlignment="Top" Width="138" Grid.Column="1"/>
         <Button x:Name="btn_Click_me" Content="Click me" HorizontalAlignment="Left" Height="46" Margin="277,227,0,0" VerticalAlignment="Top" Width="153" RenderTransformOrigin="0.487,0.5" Click="btn_Click_me_Click" Grid.Column="1"/>
-        <ComboBox x:Name="cboColor" Grid.Column="1" HorizontalAlignment="Left" Height="35" Margin="0,238,0,0" VerticalAlignment="Top" Width="173" SelectionChanged="cboColor_SelectionChanged"/>
         <Label x:Name="lbl_FavoriteColor" Content="Favorite Color" Grid.Column="1" HorizontalAlignment="Left" Height="32" Margin="0,206,0,0" VerticalAlignment="Top" Width="165"/>
+        <ComboBox x:Name="cbocolor" Grid.Column="1" HorizontalAlignment="Left" Height="35" Margin="2,238,0,0" VerticalAlignment="Top" Width="163"/>
 
     </Grid>
 </Window>
