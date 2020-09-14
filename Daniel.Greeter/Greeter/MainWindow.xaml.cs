@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using System.Xml;
 
 namespace Greeter
 {
@@ -29,7 +30,22 @@ namespace Greeter
         {
             string fullname = txt_FirstName.Text + " " + txt_LastName.Text;
 
-            MessageBox.Show("HELLO " + fullname + ",Good Morning");
+            MessageBox.Show("HELLO " + fullname + ", Good Morning!Your favorite color is " + cboColor.SelectedItem);
+        }
+
+        private void cboColor_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            InitializeComponent();
+            List<string> colors = new List<string>()
+            {
+                "White",
+                "Green",
+                "Red",
+                "Black",
+                "Blue",
+            };
+
+            cboColor.ItemsSource = colors;
         }
     }
 }
