@@ -29,7 +29,7 @@ namespace Greeter
         {
             string fullname = txt_FirstName.Text + " " + txt_LastName.Text;
 
-            MessageBox.Show("hello " + fullname + ",good morning");
+            MessageBox.Show("HELLO " + fullname + ",Good Morning");
         }
     }
 }
